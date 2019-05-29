@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/FireVideo">
+        <file>Resources/Exit.png</file>
+        <file>Resources/FocusExit.png</file>
+        <file>Resources/FocusMini.png</file>
+        <file>Resources/Mini.png</file>
+        <file>Resources/Stop.png</file>
+        <file>Resources/background.jpg</file>
+        <file>Resources/Voice.png</file>
+        <file>Resources/Next.png</file>
+        <file>Resources/Pause.png</file>
+        <file>Resources/Play.png</file>
+        <file>Resources/OpenFile.png</file>
+    </qresource>
+</RCC>
