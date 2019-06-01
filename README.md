@@ -1,7 +1,5 @@
 A Video Player using QT5 and VS2013
 
-
-
 `主要功能：` <br> 
 ---
 * 支持拖拽添加多条视频，自动识别文件类型；<br>
@@ -12,5 +10,5 @@ A Video Player using QT5 and VS2013
 
 `windows下视频无法正常播放的问题：` <br>
 ---
-* 若视频无法正常播放，可下载安装以下视频解码器（免安装绿色版）百度云盘下载链接：链接：(https://pan.baidu.com/s/1oClVIygpsHBmf--dkWXAiA"云盘链接”)
+* 若视频无法正常播放，可下载安装以下视频解码器（免安装绿色版）百度云盘下载链接：链接：https://pan.baidu.com/s/1oClVIygpsHBmf--dkWXAiA
 提取码：7yfj 
